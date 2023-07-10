@@ -37,3 +37,4 @@ ___
 | 5  | Построить график количества оценок по месяцам и годам | 10 |
 | 6  | Выявить top-5 самых активных пользователей (больше всего оценок) за последние 3 месяца | 10 |
 
+## [РЕШЕНИЕ](https://docs.google.com/spreadsheets/d/1DzB80q4DrkBewvpbvfgW1B1zupmDRiHKP__Yd2rI5wA/edit?usp=sharing)
